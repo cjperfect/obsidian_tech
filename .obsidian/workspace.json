@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b53a1934a7daf105",
+  "active": "7b670043f570ce82",
   "lastOpenFiles": [
-    "test.canvas",
     "2026-02-28.md",
+    "test.canvas",
     "MCP 工作流程.canvas",
     "未命名 1.base",
     "未命名 1.canvas",
