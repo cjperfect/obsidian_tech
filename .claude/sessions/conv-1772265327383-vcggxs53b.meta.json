@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772265327383-vcggxs53b",
+  "title": "hello",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1772265327384,
+  "updatedAt": 1772265332505,
+  "lastResponseAt": 1772265331018,
+  "sessionId": "8e9fa19c-3891-4350-af8d-325b88fe6a3f",
+  "sdkSessionId": "8e9fa19c-3891-4350-af8d-325b88fe6a3f",
+  "currentNote": "2026-02-28.md",
+  "usage": {
+    "model": "qwen3.5-plus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
