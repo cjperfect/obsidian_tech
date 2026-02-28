@@ -1,0 +1,72 @@
+{
+	"nodes":[
+		{
+			"id":"root",
+			"type":"text",
+			"text":"# 2026-02-28 AI 学习\n📅 星期六",
+			"style":{"bg":"#7c3aed"},
+			"x":0,
+			"y":0,
+			"width":250,
+			"height":100
+		},
+		{
+			"id":"insights",
+			"type":"text",
+			"text":"### 💡 感悟\n\n1. 提高效率\n2. 辅助学习\n3. 激发创意\n4. 持续迭代",
+			"style":{"bg":"#10b981"},
+			"x":-100,
+			"y":150,
+			"width":250,
+			"height":180
+		},
+		{
+			"id":"deep-thinking",
+			"type":"text",
+			"text":"### 🔍 深度思考\n\n- AI 与人类的关系\n- 学习的态度\n- 伦理与责任\n\n> 人机协作，各自所长",
+			"style":{"bg":"#f59e0b"},
+			"x":200,
+			"y":150,
+			"width":280,
+			"height":200
+		},
+		{
+			"id":"plan",
+			"type":"text",
+			"text":"### 🎯 下一步计划\n\n**短期（1-2 周）**\n- Prompt Engineering\n- 建立 AI 工作流\n\n**中期（1-3 月）**\n- AI 辅助编程\n- AI 辅助写作\n\n**长期（6 月+）**\n- 成为 AI 高手\n- 分享经验",
+			"style":{"bg":"#ec4899"},
+			"x":-250,
+			"y":400,
+			"width":280,
+			"height":220
+		},
+		{
+			"id":"quote",
+			"type":"text",
+			"text":"### 📝 今日金句\n\n> \"AI 不会取代你，但会用 AI 的人会取代你。\"\n\n持续学习、拥抱变化",
+			"style":{"bg":"#8b5cf6"},
+			"x":100,
+			"y":400,
+			"width":280,
+			"height":150
+		},
+		{
+			"id":"learning-content",
+			"type":"text",
+			"text":"### 📚 学习内容\n\n- AI 基础概念与发展历程\n- 大语言模型工作原理\n- Transformer 架构\n- 实际应用场景",
+			"style":{"bg":"#3b82f6"},
+			"x":-480,
+			"y":130,
+			"width":280,
+			"height":200
+		}
+	],
+	"edges":[
+		{"id":"edge1","fromNode":"root","fromSide":"bottom","toNode":"learning-content","toSide":"top"},
+		{"id":"edge2","fromNode":"root","fromSide":"bottom","toNode":"insights","toSide":"top"},
+		{"id":"edge3","fromNode":"root","fromSide":"bottom","toNode":"deep-thinking","toSide":"top"},
+		{"id":"edge4","fromNode":"learning-content","fromSide":"bottom","toNode":"plan","toSide":"top"},
+		{"id":"edge5","fromNode":"insights","fromSide":"bottom","toNode":"plan","toSide":"top"},
+		{"id":"edge6","fromNode":"deep-thinking","fromSide":"bottom","toNode":"quote","toSide":"top"}
+	]
+}
