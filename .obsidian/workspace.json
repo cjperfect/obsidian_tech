@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "2026-02-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "2026-02-28 的大纲"
             }
           },
           {
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b670043f570ce82",
+  "active": "f84d14e4797164c9",
   "lastOpenFiles": [
     "test.canvas",
     "2026-02-28.md",
