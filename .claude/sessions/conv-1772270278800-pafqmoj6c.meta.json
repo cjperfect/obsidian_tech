@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772270278800-pafqmoj6c",
+  "title": "Start conversation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772270278800,
+  "updatedAt": 1772270326639,
+  "lastResponseAt": 1772270326639,
+  "sessionId": "e7954364-9cb0-457a-8656-964a9ae94e22",
+  "sdkSessionId": "e7954364-9cb0-457a-8656-964a9ae94e22",
+  "currentNote": "2026-02-28.md",
+  "usage": {
+    "model": "qwen3.5-plus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
