@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f84d14e4797164c9",
+  "active": "b53a1934a7daf105",
   "lastOpenFiles": [
     "test.canvas",
     "2026-02-28.md",
