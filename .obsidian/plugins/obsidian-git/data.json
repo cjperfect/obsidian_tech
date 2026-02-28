@@ -20,7 +20,7 @@
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": true,
+  "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "https://github.com/cjperfect/obsidian_tech.git",
   "differentIntervalCommitAndPush": false,

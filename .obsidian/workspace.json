@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-28 天气.md",
+                "file": "2026-02-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-28 天气"
+              "title": "2026-02-28"
             }
           }
         ]
@@ -208,9 +208,9 @@
   },
   "active": "50da4de79bd49965",
   "lastOpenFiles": [
-    "2026-02-28.md",
-    "2026-02-28 天气.md",
     "2026-02-28 AI 学习思维导图.canvas",
+    "2026-02-28 天气.md",
+    "2026-02-28.md",
     "test.canvas",
     "MCP 工作流程.canvas",
     "未命名 1.base",
